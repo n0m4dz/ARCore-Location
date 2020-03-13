@@ -21,3 +21,6 @@ arcore-location/build/*
 /arcore-location/build/*
 .idea/misc.xml
 .idea/modules.xml
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
